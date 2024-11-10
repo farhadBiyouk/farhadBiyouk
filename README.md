@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhad Biyouk</h1>
 
-<hr>
+
 
 ###
 
