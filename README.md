@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working python and django<br><br>🌱 I’m currently learning penetration testing<br><br>⚡ I'm also interested in studying on testing topics and web penetration in the future</p>
+<p align="left">🔭 I’m currently working python and django<br><br>🌱 I’m currently learning penetration testing<br><br></p>
 <hr>
 
 ###
