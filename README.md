@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working python and django<br><br>🌱 I’m currently learning penetration testing<br><br></p>
+<p align="left">🔭 I’m currently working python and django<br><br>🌱 I’m currently learning golang<br><br></p>
 <hr>
 
 ###
